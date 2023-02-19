@@ -29,7 +29,10 @@
 <p><b>Discord<b>: NakoTurk#5452
 <p><b>Other Links<b>: https://linktr.ee/nakoturk
 
-<h1 align="center">Github Statistics</h1>
+<h1 align="center">Statistics</h1>
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/okannako/count.svg" />
+</p>
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=okannako&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" width="46%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=okannako&theme=chartreuse-dark&hide_border=true&show_icons=true" width="48.5%" />
