@@ -31,6 +31,6 @@
 
 <h1 align="center">Github Statistics</h1>
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=okannako&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=okannako&theme=chartreuse-dark&hide_border=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=okannako&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=okannako&theme=chartreuse-dark&hide_border=true&show_icons=true" width="48%" />
 </p>
