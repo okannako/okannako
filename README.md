@@ -17,6 +17,7 @@
 <p><b>Paloma</b>: https://paloma.explorers.guru/validator/palomavaloper1sz3zjcyq8cd3e2k9kx6d44s8wnavfsy2837nje
 <p><b>GenesisL1</b>: https://ping.pub/genesisl1/staking/genesisvaloper1fmmh47668k05rj2muv3868xfsmxtvxp4cuuj8r
 <p><b>Ixo</b>: https://ping.pub/ixo/staking/ixovaloper1amsmucvr3c3a2jgasxg36pk9lzhwu7l3ntg3m4
+<p><b>Quicksilver</b>: https://quicksilver.explorers.guru/validator/quickvaloper1qsv8h9vl0g8eth98v3pjq9rnzczvr40lh6s7zt
 
 <h1 align="center">Which Testnets Did I Participate in ?</h1>
 :boom: I participated in the testnet of 250+ projects and the names of some of them are as follows; <b>Celestia, Mina, Concordium, Casper, Subspace, Dymension, Humanode, Humans, Hopr, Kira, Stargaze, NYM, Polkadex, OmniFlix, Quicksilver, Meson Network, Aleo, Forta, Obol, Stride, Sei...</b>
