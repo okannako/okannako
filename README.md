@@ -19,6 +19,7 @@
 <p><b>Ixo</b>: https://ping.pub/ixo/staking/ixovaloper1amsmucvr3c3a2jgasxg36pk9lzhwu7l3ntg3m4
 <p><b>Quicksilver</b>: https://quicksilver.explorers.guru/validator/quickvaloper1srgnjmjxaemm488mkdda3fezm5kx9862lmhnf6
 <p><b>Nois</b>: https://nois.explorers.guru/validator/noisvaloper10hcnj06d32khtknfgxkcs05amnw4wrl802re70
+<p><b>Uptick</b>: https://uptick.explorers.guru/validator/uptickvaloper1864unaatp3qu60n6ug7xalp5ejjnrkyth7zfdn
 
 <h1 align="center">Which Testnets Did I Participate in ?</h1>
 :boom: I participated in the testnet of 250+ projects and the names of some of them are as follows; <b>Celestia, Mina, Concordium, Casper, Subspace, Dymension, Humanode, Humans, Hopr, Kira, Stargaze, NYM, Polkadex, OmniFlix, Quicksilver, Meson Network, Aleo, Forta, Obol, Stride, Sei...</b>
