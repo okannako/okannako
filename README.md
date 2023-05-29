@@ -20,7 +20,8 @@
 <p><b>Quicksilver</b>: https://quicksilver.explorers.guru/validator/quickvaloper1srgnjmjxaemm488mkdda3fezm5kx9862lmhnf6
 <p><b>Nois</b>: https://nois.explorers.guru/validator/noisvaloper10hcnj06d32khtknfgxkcs05amnw4wrl802re70
 <p><b>Uptick</b>: https://uptick.explorers.guru/validator/uptickvaloper1864unaatp3qu60n6ug7xalp5ejjnrkyth7zfdn
-<p><b>Blast - BwareLabs - Fantom Testnet </b>: https://blastapi.io/explorer/0xe0e35f142ec13000b838510e0306b629ffa0c524/1 - https://blastapi.io/explorer/0xe0e35f142ec13000b838510e0306b629ffa0c524/3
+<p><b>Blast - BwareLabs - Fantom Testnet 1 </b>: https://blastapi.io/explorer/0xe0e35f142ec13000b838510e0306b629ffa0c524/1
+<p><b>Blast - BwareLabs - Fantom Testnet 2 </b>: https://blastapi.io/explorer/0xe0e35f142ec13000b838510e0306b629ffa0c524/3
 <p><b>Blast - BwareLabs - Avalanche Testnet </b>: https://blastapi.io/explorer/0xe0e35f142ec13000b838510e0306b629ffa0c524/2
 
 <h1 align="center">Which Testnets Did I Participate in ?</h1>
