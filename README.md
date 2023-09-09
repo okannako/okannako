@@ -15,7 +15,6 @@
 <p><b>Stargaze</b>: https://www.mintscan.io/stargaze/validators/starsvaloper1tnffg6s9x35eac2kaw4zvkx7lvyhd7spw6hnde
 <p><b>C4e</b>: https://explorer.secardnode.com/chain4energy/staking/c4evaloper1srwzwxwytw0mfuzjhy3ltmsgsvg3ly5jh4jcdt
 <p><b>Paloma</b>: https://paloma.explorers.guru/validator/palomavaloper1sz3zjcyq8cd3e2k9kx6d44s8wnavfsy2837nje
-<p><b>GenesisL1</b>: https://ping.pub/genesisl1/staking/genesisvaloper1fmmh47668k05rj2muv3868xfsmxtvxp4cuuj8r
 <p><b>Ixo</b>: https://ping.pub/ixo/staking/ixovaloper1amsmucvr3c3a2jgasxg36pk9lzhwu7l3ntg3m4
 <p><b>Quicksilver</b>: https://quicksilver.explorers.guru/validator/quickvaloper1srgnjmjxaemm488mkdda3fezm5kx9862lmhnf6
 <p><b>Nois</b>: https://nois.explorers.guru/validator/noisvaloper10hcnj06d32khtknfgxkcs05amnw4wrl802re70
