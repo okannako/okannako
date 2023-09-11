@@ -32,7 +32,7 @@
 <p><b>Youtube<b>: https://www.youtube.com/c/CryptoChainNakoTurk
 <p><b>Twitter<b>: https://twitter.com/NakoTurk
 <p><b>Telegram<b>: https://t.me/nakoturkduyuru
-<p><b>Discord<b>: NakoTurk#5452
+<p><b>Discord<b>: nakoturk
 <p><b>Other Links<b>: https://linktr.ee/nakoturk
 
 <h1 align="center">Statistics</h1>
