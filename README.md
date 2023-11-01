@@ -12,6 +12,7 @@
 <h1 align="center">Mainnet Nodes</h1>
 :boom: I'm running nodes on <b>the Mina, Forta and Humanode</b> mainnets. I also left links to other projects that I have run on node.
 ⠀
+<p><b>Celestia</b>:https://celestia.explorers.guru/validator/celestiavaloper1pnzrk7yzx0nr9xrcjyswj7ram4qxlrfz28xvn6
 <p><b>Stargaze</b>: https://www.mintscan.io/stargaze/validators/starsvaloper1tnffg6s9x35eac2kaw4zvkx7lvyhd7spw6hnde
 <p><b>C4e</b>: https://explorer.secardnode.com/chain4energy/staking/c4evaloper1srwzwxwytw0mfuzjhy3ltmsgsvg3ly5jh4jcdt
 <p><b>Paloma</b>: https://paloma.explorers.guru/validator/palomavaloper1sz3zjcyq8cd3e2k9kx6d44s8wnavfsy2837nje
@@ -23,6 +24,7 @@
 <p><b>Blast - BwareLabs - Fantom Testnet 1 </b>: https://blastapi.io/explorer/0xe0e35f142ec13000b838510e0306b629ffa0c524/1
 <p><b>Blast - BwareLabs - Fantom Testnet 2 </b>: https://blastapi.io/explorer/0xe0e35f142ec13000b838510e0306b629ffa0c524/3
 <p><b>Blast - BwareLabs - Avalanche Testnet </b>: https://blastapi.io/explorer/0xe0e35f142ec13000b838510e0306b629ffa0c524/2
+
 
 <h1 align="center">Which Testnets Did I Participate in ?</h1>
 :boom: I participated in the testnet of 250+ projects and the names of some of them are as follows; <b>Celestia, Mina, Concordium, Casper, Subspace, Dymension, Humanode, Humans, Hopr, Kira, Stargaze, NYM, Polkadex, OmniFlix, Quicksilver, Meson Network, Aleo, Forta, Obol, Stride, Sei...</b>
