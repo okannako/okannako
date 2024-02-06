@@ -14,6 +14,7 @@
 ⠀
 <p><b>Celestia</b>: https://celestia.explorers.guru/validator/celestiavaloper1pnzrk7yzx0nr9xrcjyswj7ram4qxlrfz28xvn6
 <p><b>Stargaze</b>: https://www.mintscan.io/stargaze/validators/starsvaloper1tnffg6s9x35eac2kaw4zvkx7lvyhd7spw6hnde
+<p><b>Dymension</b>: https://dymension.explorers.guru/validator/dymvaloper1pex4h49yyp6ypcaffjw54kqdfh68valv7ljpgu
 <p><b>C4e</b>: https://explorer.secardnode.com/chain4energy/staking/c4evaloper1srwzwxwytw0mfuzjhy3ltmsgsvg3ly5jh4jcdt
 <p><b>Paloma</b>: https://paloma.explorers.guru/validator/palomavaloper1sz3zjcyq8cd3e2k9kx6d44s8wnavfsy2837nje
 <p><b>Ixo</b>: https://ping.pub/ixo/staking/ixovaloper1amsmucvr3c3a2jgasxg36pk9lzhwu7l3ntg3m4
