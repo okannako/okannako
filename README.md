@@ -13,6 +13,7 @@
 :boom: I'm running nodes on <b>the Mina, Forta, Humanode and Obol Mainnet Beta</b> mainnets. I also left links to other projects that I have run on node.
 ⠀
 <p><b>Celestia</b>: https://celestia.explorers.guru/validator/celestiavaloper1pnzrk7yzx0nr9xrcjyswj7ram4qxlrfz28xvn6
+<p><b>Obol</b>: https://beaconcha.in/validator/955f2e30ca0f5bfb7856c3b19d99ea5b020e1fe639be2bacd146abae9f7b3a2376c1ad778546ebeee4f5542209139e85#attestations
 <p><b>Stargaze</b>: https://www.mintscan.io/stargaze/validators/starsvaloper1tnffg6s9x35eac2kaw4zvkx7lvyhd7spw6hnde
 <p><b>Dymension</b>: https://dymension.explorers.guru/validator/dymvaloper1pex4h49yyp6ypcaffjw54kqdfh68valv7ljpgu
 <p><b>C4e</b>: https://explorer.secardnode.com/chain4energy/staking/c4evaloper1srwzwxwytw0mfuzjhy3ltmsgsvg3ly5jh4jcdt
