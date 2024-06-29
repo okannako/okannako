@@ -2,7 +2,7 @@
 :boom: Hello; I'm NakoTurk. I'm from Turkey. I've been interested in testnets for a long time. And I participated in many tests.  I am the first person to open a channel in the Testnet category on Youtube Turkey. Through this, I have helped many people to enter and learn in this sector. I also continue to be and teach by posting videos, guides. I am the founder and manager of Celestia and Subspace Network projects Telegram channels in Turkey. Along with the Discord of these two projects, I am also moderating the Discord of the Dymension project and am an Ambassador at Autonomys Network. I took part in mainnet and testnets with both node setups. I joined the test network of 250+ projects and ran 1000+ nodes. In addition to my experience in testnets. I have experience in video editing, community management and moderate visual design. There are also works I have done on Youtube.
 
 <h1 align="center">What are the Systems that I Run Node ?</h1>
-:boom: I rent the systems through Hetzner and Contabo. I use Vps, Dedicated systems that are required according to the location and desired systems. As an example, I have left below the features of one of the systems I use. My other systems have high features in this way.
+:boom: I rent the systems through Hetzner, Worldstream and Contabo. I use Vps, Dedicated systems that are required according to the location and desired systems. As an example, I have left below the features of one of the systems I use. My other systems have high features in this way.
 <p><b> </b>
 <p><b>CPU</b>: AMD EPYC™ 7502P
 <p><b>RAM</b>: 128 GB DDR4 ECC
