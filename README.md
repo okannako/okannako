@@ -1,5 +1,5 @@
 <h1 align="center">Who Am I and What Did I Do ?</h1>
-:boom: Hello; I'm NakoTurk. I'm from Turkey. I've been interested in testnets for a long time. And I participated in many tests.  I am the first person to open a channel in the Testnet category on Youtube Turkey. Through this, I have helped many people to enter and learn in this sector. I also continue to be and teach by posting videos, guides. I am the founder and manager of Celestia and Subspace Network projects Telegram channels in Turkey. Along with the Discord of these two projects, I am also moderating the Discord of the Dymension project and am an Ambassador at Subspace Network. I took part in mainnet and testnets with both node setups. I joined the test network of 250+ projects and ran 1000+ nodes. In addition to my experience in testnets. I have experience in video editing, community management and moderate visual design. There are also works I have done on Youtube.
+:boom: Hello; I'm NakoTurk. I'm from Turkey. I've been interested in testnets for a long time. And I participated in many tests.  I am the first person to open a channel in the Testnet category on Youtube Turkey. Through this, I have helped many people to enter and learn in this sector. I also continue to be and teach by posting videos, guides. I am the founder and manager of Celestia and Subspace Network projects Telegram channels in Turkey. Along with the Discord of these two projects, I am also moderating the Discord of the Dymension project and am an Ambassador at Autonomys Network. I took part in mainnet and testnets with both node setups. I joined the test network of 250+ projects and ran 1000+ nodes. In addition to my experience in testnets. I have experience in video editing, community management and moderate visual design. There are also works I have done on Youtube.
 
 <h1 align="center">What are the Systems that I Run Node ?</h1>
 :boom: I rent the systems through Hetzner and Contabo. I use Vps, Dedicated systems that are required according to the location and desired systems. As an example, I have left below the features of one of the systems I use. My other systems have high features in this way.
@@ -22,9 +22,9 @@
 <p><b>Quicksilver</b>: https://quicksilver.explorers.guru/validator/quickvaloper1srgnjmjxaemm488mkdda3fezm5kx9862lmhnf6
 <p><b>Nois</b>: https://nois.explorers.guru/validator/noisvaloper10hcnj06d32khtknfgxkcs05amnw4wrl802re70
 <p><b>Uptick</b>: https://uptick.explorers.guru/validator/uptickvaloper1864unaatp3qu60n6ug7xalp5ejjnrkyth7zfdn
-<p><b>Blast - BwareLabs - Fantom Testnet 1 </b>: https://blastapi.io/explorer/0xe0e35f142ec13000b838510e0306b629ffa0c524/1
+<p><b>Blast - BwareLabs - Fantom Testnet 1 </b>: https://blastapi.io/explorer/0xe0e35f142ec13000b838510e0306b629ffa0c524/5
 <p><b>Blast - BwareLabs - Fantom Testnet 2 </b>: https://blastapi.io/explorer/0xe0e35f142ec13000b838510e0306b629ffa0c524/3
-<p><b>Blast - BwareLabs - Avalanche Testnet </b>: https://blastapi.io/explorer/0xe0e35f142ec13000b838510e0306b629ffa0c524/2
+<p><b>Blast - BwareLabs - Avalanche Testnet </b>: https://blastapi.io/explorer/0xe0e35f142ec13000b838510e0306b629ffa0c524/7
 
 
 <h1 align="center">Which Testnets Did I Participate in ?</h1>
