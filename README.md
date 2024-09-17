@@ -22,10 +22,6 @@
 <p><b>Quicksilver</b>: https://quicksilver.explorers.guru/validator/quickvaloper1srgnjmjxaemm488mkdda3fezm5kx9862lmhnf6
 <p><b>Nois</b>: https://nois.explorers.guru/validator/noisvaloper10hcnj06d32khtknfgxkcs05amnw4wrl802re70
 <p><b>Uptick</b>: https://uptick.explorers.guru/validator/uptickvaloper1864unaatp3qu60n6ug7xalp5ejjnrkyth7zfdn
-<p><b>Blast - BwareLabs - Fantom Testnet 1 </b>: https://blastapi.io/explorer/0xe0e35f142ec13000b838510e0306b629ffa0c524/5
-<p><b>Blast - BwareLabs - Fantom Testnet 2 </b>: https://blastapi.io/explorer/0xe0e35f142ec13000b838510e0306b629ffa0c524/3
-<p><b>Blast - BwareLabs - Avalanche Testnet </b>: https://blastapi.io/explorer/0xe0e35f142ec13000b838510e0306b629ffa0c524/7
-
 
 <h1 align="center">Which Testnets Did I Participate in ?</h1>
 :boom: I participated in the testnet of 250+ projects and the names of some of them are as follows; <b>Celestia, Mina, Concordium, Casper, Autonomys, Dymension, Stargaze, Humanode, Sui, Aptos, Concordium, Axelar, Namada, Humans, Hopr, Kira, Stargaze, NYM, Polkadex, Taiko, Paloma, Inıtia, Shardeum, Penumbre OmniFlix, Quicksilver, Meson Network, Aleo, Forta, Obol, Lido, Stride, Side Protocol, Bware, Nois, Polymath, Sei, Rivalz, C4e, Aligned Layer, Tanssi, Lava Network, Uptick, Og, Airchains, Massa Network, Masa, Archway, Nomic, Kyve, Manta Network, Defund, Okp4, Dusk...</b>
