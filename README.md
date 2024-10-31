@@ -10,7 +10,7 @@
 <p><b>Guaranteed Bandwidth</b>: 1 Gbit/s
 
 <h1 align="center">Mainnet Nodes</h1>
-:boom: I'm running nodes on <b>the Mina, Forta, Humanode and Obol Mainnet Beta</b> mainnets. I also left links to other projects that I have run on node.
+:boom: I'm running nodes on <b>the Mina, Humanode and Obol Mainnet Beta</b> mainnets. I also left links to other projects that I have run on node.
 ⠀
 <p><b>Celestia</b>: https://celestia.explorers.guru/validator/celestiavaloper1pnzrk7yzx0nr9xrcjyswj7ram4qxlrfz28xvn6
 <p><b>Obol</b>: https://beaconcha.in/validator/955f2e30ca0f5bfb7856c3b19d99ea5b020e1fe639be2bacd146abae9f7b3a2376c1ad778546ebeee4f5542209139e85#attestations
