@@ -20,7 +20,6 @@
 <p><b>Paloma</b>: https://paloma.explorers.guru/validator/palomavaloper1sz3zjcyq8cd3e2k9kx6d44s8wnavfsy2837nje
 <p><b>Ixo</b>: https://ping.pub/ixo/staking/ixovaloper1amsmucvr3c3a2jgasxg36pk9lzhwu7l3ntg3m4
 <p><b>Quicksilver</b>: https://quicksilver.explorers.guru/validator/quickvaloper1srgnjmjxaemm488mkdda3fezm5kx9862lmhnf6
-<p><b>Nois</b>: https://nois.explorers.guru/validator/noisvaloper10hcnj06d32khtknfgxkcs05amnw4wrl802re70
 <p><b>Uptick</b>: https://uptick.explorers.guru/validator/uptickvaloper1864unaatp3qu60n6ug7xalp5ejjnrkyth7zfdn
 
 <h1 align="center">Which Testnets Did I Participate in ?</h1>
