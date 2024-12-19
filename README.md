@@ -16,7 +16,7 @@
 <p><b>Obol</b>: https://beaconcha.in/validator/955f2e30ca0f5bfb7856c3b19d99ea5b020e1fe639be2bacd146abae9f7b3a2376c1ad778546ebeee4f5542209139e85#attestations
 <p><b>Stargaze</b>: https://www.mintscan.io/stargaze/validators/starsvaloper1tnffg6s9x35eac2kaw4zvkx7lvyhd7spw6hnde
 <p><b>Dymension</b>: https://dymension.explorers.guru/validator/dymvaloper1pex4h49yyp6ypcaffjw54kqdfh68valv7ljpgu
-<p><b>C4e</b>: https://explorer.secardnode.com/chain4energy/staking/c4evaloper1srwzwxwytw0mfuzjhy3ltmsgsvg3ly5jh4jcdt
+<p><b>C4e</b>: https://explorer.stavr.tech/C4E/staking/c4evaloper1srwzwxwytw0mfuzjhy3ltmsgsvg3ly5jh4jcdt
 <p><b>Paloma</b>: https://paloma.explorers.guru/validator/palomavaloper1sz3zjcyq8cd3e2k9kx6d44s8wnavfsy2837nje
 <p><b>Ixo</b>: https://ping.pub/ixo/staking/ixovaloper1amsmucvr3c3a2jgasxg36pk9lzhwu7l3ntg3m4
 <p><b>Quicksilver</b>: https://quicksilver.explorers.guru/validator/quickvaloper1srgnjmjxaemm488mkdda3fezm5kx9862lmhnf6
