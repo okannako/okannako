@@ -23,7 +23,7 @@
 <p><b>Uptick</b>: https://uptick.explorers.guru/validator/uptickvaloper1864unaatp3qu60n6ug7xalp5ejjnrkyth7zfdn
 
 <h1 align="center">Which Testnets Did I Participate in ?</h1>
-:boom: I participated in the testnet of 500+ projects and the names of some of them are as follows; <b>Celestia, Mina, Concordium, Casper, Autonomys, Dymension, Stargaze, Humanode, Sui, Aptos, Concordium, Axelar, Namada, Humans, Hopr, Kira, Stargaze, NYM, Polkadex, Taiko, Paloma, Inıtia, Shardeum, Penumbre OmniFlix, Quicksilver, Meson Network, Aleo, Forta, Obol, Lido, Stride, Side Protocol, Bware, Nois, Polymath, Sei, Rivalz, C4e, Aligned Layer, Tanssi, Lava Network, Uptick, Og, Airchains, Massa Network, Masa, Archway, Nomic, Kyve, Manta Network, Defund, Okp4, Dusk. Rivalz, Dill, Union, Dria, Nexus..</b>
+:boom: I participated in the testnet of 500+ projects and the names of some of them are as follows; <b>Celestia, Mina, Concordium, Casper, Autonomys, Dymension, Stargaze, Humanode, Sui, Aptos, Concordium, Axelar, Namada, Humans, Hopr, Kira, Stargaze, NYM, Polkadex, Taiko, Paloma, Inıtia, Shardeum, Penumbre OmniFlix, Quicksilver, Meson Network, Aleo, Forta, Obol, Lido, Stride, Side Protocol, Bware, Nois, Polymath, Sei, Rivalz, C4e, Aligned Layer, Tanssi, Lava Network, Uptick, Og, Airchains, Massa Network, Masa, Archway, Nomic, Kyve, Manta Network, Defund, Okp4, Dusk. Rivalz, Dill, Union, Dria, Nexus, Layeredge, Bless, Gradient..</b>
 
 <h1 align="center">Social Links</h1>
 <p><b>Github<b>: https://github.com/okannako
