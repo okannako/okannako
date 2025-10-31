@@ -16,7 +16,7 @@
 <p><b>Stargaze - Genesis</b>: https://www.mintscan.io/stargaze/validators/starsvaloper1tnffg6s9x35eac2kaw4zvkx7lvyhd7spw6hnde
 <p><b>Lido</b>: https://mainnet.beaconcha.in/validator/0x805f0e07d1c8385a022accd7bfd3a0b9966b83a4d95fcbc49ff16520d9a1edc5eefc680b6fcfe52b9e73b90f741f5ca3
 <p><b>Dymension - Genesis</b>: https://dymension.explorers.guru/validator/dymvaloper1pex4h49yyp6ypcaffjw54kqdfh68valv7ljpgu
-<p><b>Side - Genesis</b>: https://explorer.kjnodes.com/side/staking/sidevaloper1dhzsvcwty49v0vvtlhwep5fa85zx0np34w4nhet5295awlnjfl2sh2d5cq
+<p><b>Bitway - Genesis</b>: https://app.bitway.com/validators/bitwayvaloper1dhzsvcwty49v0vvtlhwep5fa85zx0np34w4nhet5295awlnjfl2sk6sxc8
 <p><b>C4e - Genesis</b>: https://explorer.stavr.tech/C4E/staking/c4evaloper1srwzwxwytw0mfuzjhy3ltmsgsvg3ly5jh4jcdt
 <p><b>Paloma - Genesis</b>: https://paloma.explorers.guru/validator/palomavaloper1sz3zjcyq8cd3e2k9kx6d44s8wnavfsy2837nje
 <p><b>Ixo</b>: https://ping.pub/ixo/staking/ixovaloper1amsmucvr3c3a2jgasxg36pk9lzhwu7l3ntg3m4
