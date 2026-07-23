@@ -13,14 +13,11 @@
 :boom: I'm running nodes on <b>the Mina, Humanode, Obol Mainnet Beta and DePIN projects</b> mainnets. I also left links to other projects that I have run on node.
 ⠀
 <p><b>Celestia - Genesis</b>: https://celestia.explorers.guru/validator/celestiavaloper1pnzrk7yzx0nr9xrcjyswj7ram4qxlrfz28xvn6
-<p><b>Stargaze - Genesis</b>: https://www.mintscan.io/stargaze/validators/starsvaloper1tnffg6s9x35eac2kaw4zvkx7lvyhd7spw6hnde
-<p><b>Lido</b>: https://mainnet.beaconcha.in/validator/0x805f0e07d1c8385a022accd7bfd3a0b9966b83a4d95fcbc49ff16520d9a1edc5eefc680b6fcfe52b9e73b90f741f5ca3
 <p><b>Dymension - Genesis</b>: https://dymension.explorers.guru/validator/dymvaloper1pex4h49yyp6ypcaffjw54kqdfh68valv7ljpgu
 <p><b>Bitway - Genesis</b>: https://app.bitway.com/validators/bitwayvaloper1dhzsvcwty49v0vvtlhwep5fa85zx0np34w4nhet5295awlnjfl2sk6sxc8
 <p><b>C4e - Genesis</b>: https://explorer.stavr.tech/C4E/staking/c4evaloper1srwzwxwytw0mfuzjhy3ltmsgsvg3ly5jh4jcdt
 <p><b>Paloma - Genesis</b>: https://paloma.explorers.guru/validator/palomavaloper1sz3zjcyq8cd3e2k9kx6d44s8wnavfsy2837nje
 <p><b>Ixo</b>: https://ping.pub/ixo/staking/ixovaloper1amsmucvr3c3a2jgasxg36pk9lzhwu7l3ntg3m4
-<p><b>Quicksilver</b>: https://quicksilver.explorers.guru/validator/quickvaloper1srgnjmjxaemm488mkdda3fezm5kx9862lmhnf6
 <p><b>Uptick - Genesis</b>: https://uptick.explorers.guru/validator/uptickvaloper1864unaatp3qu60n6ug7xalp5ejjnrkyth7zfdn
 
 <h1 align="center">Which Testnets Did I Participate in ?</h1>
