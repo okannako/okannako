@@ -16,7 +16,6 @@
 <p><b>Dymension - Genesis</b>: https://dymension.explorers.guru/validator/dymvaloper1pex4h49yyp6ypcaffjw54kqdfh68valv7ljpgu
 <p><b>Bitway - Genesis</b>: https://app.bitway.com/validators/bitwayvaloper1dhzsvcwty49v0vvtlhwep5fa85zx0np34w4nhet5295awlnjfl2sk6sxc8
 <p><b>C4e - Genesis</b>: https://explorer.stavr.tech/C4E/staking/c4evaloper1srwzwxwytw0mfuzjhy3ltmsgsvg3ly5jh4jcdt
-<p><b>Paloma - Genesis</b>: https://paloma.explorers.guru/validator/palomavaloper1sz3zjcyq8cd3e2k9kx6d44s8wnavfsy2837nje
 <p><b>Ixo</b>: https://ping.pub/ixo/staking/ixovaloper1amsmucvr3c3a2jgasxg36pk9lzhwu7l3ntg3m4
 <p><b>Uptick - Genesis</b>: https://uptick.explorers.guru/validator/uptickvaloper1864unaatp3qu60n6ug7xalp5ejjnrkyth7zfdn
 
